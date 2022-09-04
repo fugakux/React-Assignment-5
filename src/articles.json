@@ -1,0 +1,57 @@
+[
+  {
+    "category": "Science",
+    "title": "An article about Art",
+    "desription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's Lorem Ipsum. ",
+    "image": "science.jpg"
+  },
+  {
+    "category": "Sports",
+    "title": "An article about Art",
+    "desription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's Lorem Ipsum. ",
+    "image": "sports.jfif"
+  },
+  {
+    "category": "Politics",
+    "title": "An article about Art",
+    "desription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's Lorem Ipsum. ",
+    "image": "politics.jpg"
+  },
+  {
+    "category": "Art",
+    "title": "An article about Art",
+    "desription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's Lorem Ipsum. ",
+    "image": "arts.jpg"
+  },
+  {
+    "category": "Tech",
+    "title": "An article about Art",
+    "desription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry'spsum. ",
+    "image": "tech.jpg"
+  },
+  {
+    "category": "Food",
+    "title": "An article about Art",
+    "desription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the g versions of Lorem Ipsum. ",
+    "image": "food.png"
+  },
+
+  {
+    "category": "Art",
+    "title": "An article about Art",
+    "desription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's Lorem Ipsum. ",
+    "image": "art2.jpg"
+  },
+  {
+    "category": "Politics",
+    "title": "An article about Art",
+    "desription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry'spsum. ",
+    "image": "politics2.jpg"
+  },
+  {
+    "category": "Food",
+    "title": "An article about Art",
+    "desription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the g versions of Lorem Ipsum. ",
+    "image": "food2.jpg "
+  }
+]
