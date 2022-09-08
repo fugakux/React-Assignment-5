@@ -256,3 +256,57 @@ padding:15px;
 
   background-color: var(--arts-color);
 }
+
+.create {
+  max-width: 400px;
+  margin: 0 auto;
+  text-align: center;
+}
+.create label {
+  text-align: left;
+  display: block;
+}
+.create h2 {
+  font-size: 20px;
+  color: #3C4788;
+  margin-bottom: 30px;
+}
+.create input, .create textarea, .create select {
+  width: 100%;
+  padding: 6px 10px;
+  margin: 10px 0;
+  border: 1px solid #ddd;
+  box-sizing: border-box;
+  display: block;
+}
+.create button {
+    color: #183af5;
+  color: #fff;
+  border: 0;
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+button {
+  color: black;
+  background-color: salmon;
+  border: transparent;
+  border-radius: 15px;
+  size: 50cm;
+  display: block;
+  width: auto;
+  border: none;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top:100px;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  text-align: center;
+  font-size: 25px;
+  border: none;
+  font-weight: bold;
+
+  
+}

@@ -6,8 +6,7 @@ const Article = ({ id }) => {
 
 	const {
 		data: article,
-		isLoading,
-		errorMessage,
+		
 	} = useGetRequest("http://localhost:7000/articles/" + id);
 
 	return (

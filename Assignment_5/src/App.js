@@ -7,6 +7,7 @@ import ArticleList from "./components/articleList";
 import useGetRequest from "./components/useGetRequest";
 import Showcase from "./components/showcase";
 import Footer from "./components/foooter";
+import CreateNew from "./components/createnew";
 
 function App() {
 	const {
@@ -20,7 +21,9 @@ function App() {
 			<Router>
 				<NavBar />
 				<Showcase/>
+				
 				<ArticleList articles={articles} />
+				<CreateNew/>
 				<Footer/>
 			</Router>
 		</div>
